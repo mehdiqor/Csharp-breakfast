@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bdt4MqkL9KN8A7sAqEtAh7Ox3AZas8Dl2uoFtLWzFExfs/E1a7nB6LqpUgVfW0eIobVrTS4Utsd8gPql5+pIoQ==",
+  "success": true,
+  "projectFilePath": "/home/mehdi/Desktop/my-codes/Csharp-breakfast/BuberBreakfast/BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "/home/mehdi/.nuget/packages/erroror/1.9.0/erroror.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BuberBreakfast/1.0.0": {
+        "dependencies": {
+          "BuberBreakfast.Contracts": "1.0.0",
+          "ErrorOr": "1.9.0"
+        },
+        "runtime": {
+          "BuberBreakfast.dll": {}
+        }
+      },
+      "ErrorOr/1.9.0": {
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BuberBreakfast.Contracts/1.0.0": {
+        "runtime": {
+          "BuberBreakfast.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuberBreakfast/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ErrorOr/1.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-M0MVobszE2WOUpZSN3v5Sy0fJ4WtT/bM0sNm/l17zbKETkp7nk8NW9enQsIUdsUXaRvrGeq0cYyel8u3xW+zJQ==",
+      "path": "erroror/1.9.0",
+      "hashPath": "erroror.1.9.0.nupkg.sha512"
+    },
+    "BuberBreakfast.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

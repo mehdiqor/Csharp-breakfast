@@ -1,0 +1,12 @@
+/home/mehdi/Desktop/my-codes/Csharp-breakfast/BuberBreakfast.Contracts/bin/Debug/net6.0/BuberBreakfast.Contracts.deps.json
+/home/mehdi/Desktop/my-codes/Csharp-breakfast/BuberBreakfast.Contracts/bin/Debug/net6.0/BuberBreakfast.Contracts.dll
+/home/mehdi/Desktop/my-codes/Csharp-breakfast/BuberBreakfast.Contracts/bin/Debug/net6.0/BuberBreakfast.Contracts.pdb
+/home/mehdi/Desktop/my-codes/Csharp-breakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.csproj.AssemblyReference.cache
+/home/mehdi/Desktop/my-codes/Csharp-breakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/mehdi/Desktop/my-codes/Csharp-breakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+/home/mehdi/Desktop/my-codes/Csharp-breakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.AssemblyInfo.cs
+/home/mehdi/Desktop/my-codes/Csharp-breakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+/home/mehdi/Desktop/my-codes/Csharp-breakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.dll
+/home/mehdi/Desktop/my-codes/Csharp-breakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/refint/BuberBreakfast.Contracts.dll
+/home/mehdi/Desktop/my-codes/Csharp-breakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.pdb
+/home/mehdi/Desktop/my-codes/Csharp-breakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/ref/BuberBreakfast.Contracts.dll
